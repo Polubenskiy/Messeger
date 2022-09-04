@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Messenger_Polubenskiy_493</string>
+
+    <string name="ipAddress_name">IP Address</string>
+    <string name="port_name">Port</string>
+
+
+</resources>
